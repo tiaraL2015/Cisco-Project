@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="50ed778e-4df7-4830-9758-23fb7c9d3d87" name="https://tiaral2015.github.io/CiscoProject/" url="https://tiaral2015.github.io/CiscoProject/">
+        <fileTransfer host="" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
